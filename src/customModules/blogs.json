@@ -1,0 +1,106 @@
+{
+  "blogOne": {
+    "id": 1,
+    "profileImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "blogImageUrls": [
+      "https://drive.google.com/uc?export=view&id=1Igm2vKhZbnXn9rMed8_4BNCGGyY0_s9V",
+      "https://drive.google.com/uc?export=view&id=1jSXT7tVUmvhisXiT1D3ejZlWNAUaA3UK",
+      "https://drive.google.com/uc?export=view&id=1AC_-CgEpZ8OyGWBzpw_pSsKv_d7Ee3_X",
+      "https://drive.google.com/uc?export=view&id=12NV0aiEnKzHDcJ7L-MVtnbo9algMAS41"
+    ],
+    "blogTextContent": "This is the blockchain technology mantra discussed by Mr. Henry James Banayat, Business Advisor of Bitshares Labs Inc., during the Blockchain Technology Development Seminar-Workshop hosted by Project SUNSHARE yesterday. \nThis event aimed to demystify knowledge on the different aspects of blockchain technologies while also capacitating the participants in creating a crypto coin. \nProject SUNSHARE is a DOST-GIA approved project that aims to develop a blockchain marketplace application where users can buy and sell renewable energy from their community.",
+    "blogDate": "January 15, 2022",
+    "blogTitle": "Blockchain Technology with Mr. Henry James Banayat",
+    "authorName": "Sophia Arellano",
+    "authorImageUrl": "https://drive.google.com/uc?export=view&id=1FRzbIw-AfkhC06XGNIFt2aI2TKg8W8Sp"
+  },
+
+  "blogTwo": {
+    "id": 2,
+    "profileImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png",
+    "blogImageUrls": [
+      "https://drive.google.com/uc?export=view&id=1HuymlMHp4j1y2uFXFggpBoeM0DCQiSuo",
+      "https://drive.google.com/uc?export=view&id=17whnyhgBd99h7WH8T5OPZGUROkohjohU",
+      "https://drive.google.com/uc?export=view&id=1ixw3CIYKu2-F3oeDVtVRUwemt0xOBzpC",
+      "https://drive.google.com/uc?export=view&id=1lWgPvB7U1eVJWcvPw6yUm0OZAuQ9v3JX"
+    ],
+    "blogTextContent": "This fact was affirmed by Engr. Michael James Deus during the Basic Knowledge about Solar Power Systems Seminar hosted by Project SUNSHARE that was held earlier today, March 9, 2022. \nThe goal of this event was to discuss the fundamental understanding of the different components of solar power systems and the integration of blockchain technology in the energy sector. \nProject SUNSHARE is a DOST-PCIEERD-GIA funded project that aims to develop a blockchain marketplace application where users can buy and sell renewable energy from their community.",
+    "blogDate": "March 9, 2022",
+    "blogTitle": "Solar Energy Basics with Engr. Michael James Deus",
+    "authorName": "Sophia Arellano",
+    "authorImageUrl": "https://drive.google.com/uc?export=view&id=1FRzbIw-AfkhC06XGNIFt2aI2TKg8W8Sp"
+  },
+
+  "blogThree": {
+    "id": 3,
+    "profileImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+    "blogImageUrls": [
+      "https://drive.google.com/uc?export=view&id=1Cs68FiVPsggd7DXontlSGQHHTL-u_Zoy",
+      "https://drive.google.com/uc?export=view&id=14ZKPEX4mn5bJ8fUM5t7lBZ_Nuxagp2oC",
+      "https://drive.google.com/uc?export=view&id=1Ift75-GQgUEQQRNyC6KEU7yB6HLYBcS9",
+      "https://drive.google.com/uc?export=view&id=1Zf8ykNR7XVZfkW5Rh7PPofBxhXngzoZu",
+      "https://drive.google.com/uc?export=view&id=12qJoiqu4dLkGi3N-2QOsdF5yPuRPbgZo",
+      "https://drive.google.com/uc?export=view&id=1GhZsKohSKAI1AZ0Sq4lFkp8sy6fsZ4Gg"
+    ],
+    "blogTextContent": "An insightful and productive project monitoring session with Mr. Julius L. Mayorga of DOST-PCIEERD, together with Ms. Mae Lany Bangnan of DOST-CAR. The monitoring is part of the semi-annual monitoring of Project SUNSHARE: A Renewable Energy Blockchain Marketplace Application for a Clean Community. Major challenges and accomplishment status of project deliverables were the highlights of the engagement.",
+    "blogDate": "July 7, 2022",
+    "blogTitle": "Project SUNSHARE's Semi-Annual Monitoring",
+    "authorName": "Vanessa Aniceto",
+    "authorImageUrl": "https://drive.google.com/uc?export=view&id=1VZFU5fMBqmnXJTgBPfjsKqVKghM5rtkT"
+  },
+
+  "blogFour": {
+    "id": 4,
+    "profileImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+    "blogImageUrls": [
+      "https://drive.google.com/uc?export=view&id=1u9CMg7znKWVCXEdbTWNWRu09_fr-uwGz",
+      "https://drive.google.com/uc?export=view&id=14rKcO_AzkYn9j7ebe31StdfYeSUCvObz",
+      "https://drive.google.com/uc?export=view&id=13Dw0r9vWK225Wp6DtWwEiTiKu5x2IKuG",
+      "https://drive.google.com/uc?export=view&id=1B8Xis0uT7zyfPtG7pBPtE1n1tHjQCWrZ",
+      "https://drive.google.com/uc?export=view&id=1JbpLGZLTkb1I4y7AvJTrn5rlbxrMcxUq"
+    ],
+    "blogTextContent": "MREC is one of the DOST- Science for Change Program's major accomplishments which made a substantial contribution to solving the energy crisis in Mindanao. MREC also supports research and development projects focused on renewable energy to strengthen energy policy, technology use and commercialization. \nThe visit aimed to capacitate the team on the different application of renewable energy and discuss potential collaboration on integrating blockchain technology with renewable energy. \nProject SUNSHARE was warmly welcomed by the team of Dr. Nelson Enano Jr., Director of MREC. \nDr. Renyl B. Barroca, Assistant Dean of School of Engineering and Architecture also showcased their projects on Concertrated Solar Power (CSP) and Ocean Renewable Engergy (ORE) under the DOST's Niche Centers in the Regions for R&D (NICER) program.",
+    "blogDate": "August 23, 2022",
+    "blogTitle": "Project SUNSHARE visits Ateneo de Davao University",
+    "authorName": "Sophia Arellano",
+    "authorImageUrl": "https://drive.google.com/uc?export=view&id=1FRzbIw-AfkhC06XGNIFt2aI2TKg8W8Sp"
+  },
+
+  "blogFive": {
+    "id": 5,
+    "profileImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+    "blogImageUrls": [
+      "https://drive.google.com/uc?export=view&id=1v9d4_kS3HLmZUrEvVyk95eQl-LzFH99D",
+      "https://drive.google.com/uc?export=view&id=1g8_9lsAfX_K13gcDruB71wnwBhcmzdEv",
+      "https://drive.google.com/uc?export=view&id=1vxfyOmbeditRXbPM3o9JnfcOJZXDKMK9",
+      "https://drive.google.com/uc?export=view&id=177zZ6lrWC2hEMExnlKDJSRWrPAlZEbGU",
+      "https://drive.google.com/uc?export=view&id=1Rd38AazotyAFXaj0V-XyQrKsLu4tAKbo",
+      "https://drive.google.com/uc?export=view&id=1y9ngQJt09UIRi_uqIAD5xhyIajKwqQAR",
+      "https://drive.google.com/uc?export=view&id=1efq6lXY9qyE27Lzei5xjeDY6qcgYqFwL"
+    ],
+    "blogTextContent": "A breakthrough for Project SUNSHARE as they jumpstart the week with a technical training on maintenance and operations of the completed Solar PV System installation as one of the crucial deliverables of the project. \nThe training has been attended by the Project Team led by its Project Leader Dr. Thelma D. Palaoag, and UC's Facilities and Management Office and Building Management Office headed by Ms. Roselyn M. Gama. \nThe installation of the Solar PV System will drive the next phase of the project's implementation as a renewable energy marketplace blockchain application for a clean community.",
+    "blogDate": "September 5, 2022",
+    "blogTitle": "Project SUNSHARE's Solar Panel System Installation",
+    "authorName": "Vanessa Aniceto",
+    "authorImageUrl": "https://drive.google.com/uc?export=view&id=1VZFU5fMBqmnXJTgBPfjsKqVKghM5rtkT"
+  },
+
+  "blogSix": {
+    "id": 6,
+    "profileImageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
+    "blogImageUrls": [
+      "https://drive.google.com/uc?export=view&id=1Ls9ARREjF5aOrjtlv7uhgRVvSaYCck3U",
+      "https://drive.google.com/uc?export=view&id=1C85--mNoy7ib6GjA0pBJzQ3sOyqo0gFj",
+      "https://drive.google.com/uc?export=view&id=1zgEa9op3L29pGu8mZI5EimhLqEy9e7cY",
+      "https://drive.google.com/uc?export=view&id=1CaV0wyGUtRayZ4_EUMGXztw9ALBLMy5o",
+      "https://drive.google.com/uc?export=view&id=1UKiqrFk025v7ZC66U8SqcwrVOhnSHSyz",
+      "https://drive.google.com/uc?export=view&id=1nIPnA4AML6GzJmlMTeqIBx1zkYyJN105",
+      "https://drive.google.com/uc?export=view&id=1FuKxA3sjrYbLzYkh8T0OveCyfRWvfkvY"
+    ],
+    "blogTextContent": "Warmly welcomed DOST-PCIEERD monitoring team for SUNSHARE led by Engr. Patrick Montero with Engr. Julius Mayorga, and Ms. Gracelene Balverde. \nThe monitoring is a crucial part of the project's implementation and progress. The session focused on the project's accomplishments, alignment to objectives, challenges, action plan, and an initial discussion on the commercialization path.",
+    "blogDate": "September 22, 2022",
+    "blogTitle": "Project SUNSHARE's Second Project Monitoring",
+    "authorName": "Sophia Arellano",
+    "authorImageUrl": "https://drive.google.com/uc?export=view&id=1FRzbIw-AfkhC06XGNIFt2aI2TKg8W8Sp"
+  }
+}
